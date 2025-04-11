@@ -1,0 +1,12 @@
+.conteiner{
+    position: relative;
+    width: 28%;
+    margin: 15px;
+    overflow: hidden;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+    margin-left: 70px;
+    background-color: rgb(245, 245, 255);
+    color: black;
+    padding: 10px ;
+}
