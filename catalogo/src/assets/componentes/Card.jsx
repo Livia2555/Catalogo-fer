@@ -9,4 +9,6 @@ export function Card({movie, onOpenModal}){
             <p>{movie.overview}</p>
         </div>
     );
+
+    
 }

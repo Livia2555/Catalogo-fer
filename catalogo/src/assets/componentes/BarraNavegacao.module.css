@@ -12,7 +12,7 @@
     color: azure;   
 }
 
-ul{
+.conteiner ul{
     display: flex;
     justify-content: center;
     align-items: center;
